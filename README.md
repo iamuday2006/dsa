@@ -33,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/iamuday2006/dsa/tree/master/0344-reverse-string) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/iamuday2006/dsa/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
