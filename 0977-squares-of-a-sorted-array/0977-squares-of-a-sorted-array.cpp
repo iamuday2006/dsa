@@ -19,6 +19,11 @@ public:
         if (neg.size() == 0) {
             return doSquare(pos);
         }
+        if (pos.size() == 0) {
+            doSquare(neg);
+            reverse(neg.begin(), neg.end());
+            return neg;
+        }
 
         doSquare(neg);
         sort(neg.begin(), neg.end());
